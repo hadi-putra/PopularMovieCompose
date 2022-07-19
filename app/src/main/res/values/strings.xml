@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MovieCompose</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv">TV Shows</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_tv">Series</string>
+    <string name="search_menu">Search</string>
+    <string name="no_result" tools:ignore="ExtraTranslation">No Result</string>
+    <string name="status_label" tools:ignore="ExtraTranslation">Status</string>
+    <string name="language_label" tools:ignore="ExtraTranslation">Language</string>
+    <string name="budget_label" tools:ignore="ExtraTranslation">Budget</string>
+    <string name="revenue_label" tools:ignore="ExtraTranslation">Revenue</string>
+    <string name="overview_label" tools:ignore="ExtraTranslation">Overview</string>
+    <string name="similar_title" tools:ignore="ExtraTranslation">Similar</string>
+    <string name="recommendation_title" tools:ignore="ExtraTranslation">Recommendation</string>
+    <string name="casts_title" tools:ignore="ExtraTranslation">The Casts</string>
+</resources>
